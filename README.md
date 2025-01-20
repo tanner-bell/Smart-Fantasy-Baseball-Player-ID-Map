@@ -1,0 +1,3 @@
+Read this for more background: https://www.smartfantasybaseball.com/2020/12/everything-you-need-to-know-about-the-player-id-map/
+In short, this is a fantasy-baseball-focused ID map. It is not intended to be used for MLB-wide purposes. Only "fantasy-relevant" players appear on this list. The scope of what is "fantasy-relevant" can be thought of as about the top 750 mixed league players in NFBC ADP. You won't find middle relievers with no save chances or players making their MLB debut that are not expected to be picked up in mixed fantasy leagues. 
+Please feel free to email me at smartfantasybaseball@gmail.com if you have any questions or suggestions. 
